@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "chow-chow-241295900-2000-54a50a2fcb64449a836cf966939b02da.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "chow-chow-241295900-2000-54a50a2fcb64449a836cf966939b02da 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

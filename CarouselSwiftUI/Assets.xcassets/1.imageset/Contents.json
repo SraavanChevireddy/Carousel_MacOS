@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "dog-puppy-on-garden-royalty-free-image-1586966191.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "dog-puppy-on-garden-royalty-free-image-1586966191 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
